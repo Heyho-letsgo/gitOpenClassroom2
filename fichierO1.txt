@@ -1,2 +1,2 @@
-Je rajoute du code dans fichier01.txt
-<lsjflsjfl>
+Je supprime du code dans fichier01.txt
+
