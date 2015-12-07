@@ -1,2 +1,2 @@
-Je supprime du code dans fichier01.txt
+je supprime du code dans fichier01.txt
 
