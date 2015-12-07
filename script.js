@@ -1,5 +1,3 @@
 var a = "a"
-var b = "B"
-<<<<<<< Updated upstream
-===
->>>>>>> Stashed changes
+var b = "b"
+
