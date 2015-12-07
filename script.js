@@ -1,2 +1,2 @@
 var a = "a"
-var b = "b"
+var b = "B"
